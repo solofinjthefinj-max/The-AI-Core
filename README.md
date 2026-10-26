@@ -18,3 +18,5 @@ A personal AI assistant dashboard for:
 npm install
 cp .env.example .env
 npm run dev
+npm run build
+npm run start
