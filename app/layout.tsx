@@ -4,7 +4,7 @@ import { Sidebar } from "@/components/sidebar";
 import { Topbar } from "@/components/topbar";
 
 export const metadata: Metadata = {
-  title: "Auralis AI Workspace",
+  title: "AUGEN | الجوهرة الذكية",
   description: "Smart personal AI assistant"
 };
 
