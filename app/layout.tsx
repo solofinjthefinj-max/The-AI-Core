@@ -1,7 +1,7 @@
 import "./globals.css";
 import type { Metadata } from "next";
-import { Sidebar } from "@/components/Sidebar";
-import { Topbar } from "@/components/Topbar";
+import { Sidebar } from "@/components/sidebar";
+import { Topbar } from "@/components/topbar";
 
 export const metadata: Metadata = {
   title: "Auralis AI Workspace",
